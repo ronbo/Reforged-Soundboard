@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+android:id="@+id/scrollview1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TableLayout
+android:id="@+id/tablelayout1"
+android:layout_width="312px"
+android:layout_height="429px"
+android:orientation="vertical"
+>
+<Button
+android:id="@+id/sound1"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Anal or Chuck Norris"
+>
+</Button>
+<Button
+android:id="@+id/sound2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Anal Pain Supression"
+>
+</Button>
+<Button
+android:id="@+id/sound3"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Bloodlust's True Purpose"
+>
+</Button>
+<Button
+android:id="@+id/sound4"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Don't Heal Skree"
+>
+</Button>
+<Button
+android:id="@+id/sound5"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Drop it on the sides!"
+>
+</Button>
+<Button
+android:id="@+id/sound6"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Great"
+>
+</Button>
+<Button
+android:id="@+id/sound7"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Hara's sleeping arrangements"
+>
+</Button>
+<Button
+android:id="@+id/sound8"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Holy Crap, Skollin"
+>
+</Button>
+<Button
+android:id="@+id/sound9"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Homie don't play"
+>
+</Button>
+
+<Button
+android:id="@+id/sound10"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Ignore chat bubbles"
+>
+</Button>
+<Button
+android:id="@+id/sound11"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Just bad"
+>
+</Button>
+<Button
+android:id="@+id/sound12"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Learn blink"
+>
+</Button>
+<Button
+android:id="@+id/sound13"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Lick King"
+>
+</Button>
+<Button
+android:id="@+id/sound14"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Mohawk grenade"
+>
+</Button>
+<Button
+android:id="@+id/sound15"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Mostly at night"
+>
+</Button>
+<Button
+android:id="@+id/sound16"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Mr. Sad Cloud"
+>
+</Button>
+<Button
+android:id="@+id/sound17"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Mstree's the boss"
+>
+</Button>
+<Button
+android:id="@+id/sound18"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Oh boy"
+>
+</Button>
+<Button
+android:id="@+id/sound19"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Come on"
+>
+</Button>
+<Button
+android:id="@+id/sound20"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Pets out"
+>
+</Button>
+<Button
+android:id="@+id/sound21"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Ran smack into him"
+>
+</Button>
+<Button
+android:id="@+id/sound22"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Repair bot Skree"
+>
+</Button>
+<Button
+android:id="@+id/sound23"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="That sucks"
+>
+</Button>
+<Button
+android:id="@+id/sound24"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Tomfoolery"
+>
+</Button>
+<Button
+android:id="@+id/sound25"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Uh oh"
+>
+</Button>
+<Button
+android:id="@+id/sound26"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Unacceptable"
+>
+</Button>
+<Button
+android:id="@+id/sound27"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Lugz = e-Stalker"
+>
+</Button>
+<Button
+android:id="@+id/sound28"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="What did Hara do?"
+>
+</Button>
+<Button
+android:id="@+id/sound29"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="What's a piñata?"
+>
+</Button>
+<Button
+android:id="@+id/sound30"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Wrong toon"
+>
+</Button>
+</TableLayout>
+</ScrollView>
